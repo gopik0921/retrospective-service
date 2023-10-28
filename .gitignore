@@ -1,0 +1,42 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build directories
+target/
+build/
+bin/
+
+# Gradle
+.gradle/
+build.gradle
+build/
+bin/
+.gradle
+build/
+out/
+settings.gradle
+
+# Maven
+target/
+pom.xml.tag
+release.properties
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.loc
+pom.xml.backup
+
+# Logs
+*.log
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
